@@ -65,9 +65,9 @@ categories: 技术运营工作周报
 
 6. 产品及项目研发
 
-    1.XXXXXXX；
+    1.流程指派【专属云、三一重工】；
 
-    2.XXXXXXX；
+    2.BPM支持【国家电网】；
 
     3.XXXXXXX；
 
