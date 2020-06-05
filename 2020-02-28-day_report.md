@@ -36,7 +36,7 @@ categories: 技术运营工作周报
 
     1.南山BAI开发平台培训；
 
-    2.XXXXXXX；
+    2.XXXXXXX；123
 
     3.XXXXXXX；
 
